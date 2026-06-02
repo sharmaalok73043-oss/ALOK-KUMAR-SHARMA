@@ -1,0 +1,8 @@
+{
+  "name": "NEET PYQ Guru",
+  "description": "Offline chapter-wise PYQs and live mock simulator with AI doubt resolution tutor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
